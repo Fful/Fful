@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fful, but u can call me ✨German✨
+- 👋 Hi, I’m @Fful, but u can call me ✨Herman✨
 - 👀 I’m interested in everything related to the IT sphere, and especially ✨AI✨ & ✨ML✨
 - 🌱 I’m currently learning Python and how to work with data, coz i will be HUGE ✨DS✨
 - 💞️ I’m looking 👀
