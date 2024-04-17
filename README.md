@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/fful/" target="_blank">Ermolaev German</a> </h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/fful/" target="_blank">German Ermolaev</a> </h1>
 <h3 align="center">Honing my ✨DS/ML✨ skills</h3>
 <h4 align="center"><a href="https://leetcode.com/Fful/" target="_blank">🚀 LEETCODE 🚀</a> <h4>
 
